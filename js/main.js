@@ -11,14 +11,15 @@
 // TODO: Write a prompt statement like the one below for each of the
 // variables listed.
 
-let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
+let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).','Ms.');
 
 // Using the same prompt() command, populate the following variables:
 //
 // TODO: A variable named "authorName" for authorial attribution.
-let authorName = prompt('What is your full name?');
+let authorName = prompt('What is your full name?','Lio');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
+let adjective1 = prompt('Give me a descriptive term','beuatiful');
 
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
 
