@@ -1,6 +1,7 @@
 /* WATS 3020 Mad Libs Assignment */
 
 body {
+    background-color: beige;
     padding: 1rem;
     font-family: Arial, Helvetica, sans-serif;
 }
